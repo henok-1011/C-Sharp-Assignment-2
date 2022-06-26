@@ -1,0 +1,23 @@
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\bin\Debug\net6.0\CSharp program.exe
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\bin\Debug\net6.0\CSharp program.deps.json
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\bin\Debug\net6.0\CSharp program.runtimeconfig.json
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\bin\Debug\net6.0\CSharp program.dll
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\bin\Debug\net6.0\CSharp program.pdb
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.csproj.AssemblyReference.cache
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.AssemblyInfoInputs.cache
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.AssemblyInfo.cs
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.dll
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\refint\CSharp program.dll
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.pdb
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\CSharp program.genruntimeconfig.cache
+c:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\CSharp program\obj\Debug\net6.0\ref\CSharp program.dll
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\CSharp program.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\CSharp program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\CSharp program.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\CSharp program.AssemblyInfo.cs
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\CSharp program.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\CSharp program.dll
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\refint\CSharp program.dll
+C:\Users\Administrator\Documents\HilCoe\2nd year\Term 2\Windows programing\CSharp program\obj\Debug\net6.0\CSharp program.pdb
